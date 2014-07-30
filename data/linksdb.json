@@ -57,10 +57,22 @@
             "title" : "Lenguaje C",
             "data" : [
               {
+                "name" : "Aprenda lenguaje ANSI C como si estuviera en Primero",
+                "about" : "En estos apuntes se describe de forma abreviada la sintaxis del lenguaje Comentarios. No se trata de aprender a programar en C, sino más bien de presentar los recursos o las posibilidades que el C pone a disposición de los programadores.",
+                "url" : "http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/ansic/leng_c.pdf",
+                "urltext" : "tecnun.es/asignaturas/Informat1/ AyudaInf/aprendainf/ansic/ leng_c.pdf"
+              },
+              {
                 "name" : "The C Library Reference Guide",
                 "about" : "This guide provides a useful look at the standard C programming language. This guide is divided into two sections. The first part, 'Language', is an analysis of the syntax and the environment. The second part, 'Library', is a list of the functions available in the standard C library.",
                 "url" : "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/",
                 "urltext" : "acm.uiuc.edu/webmonkeys/book/c_guide"
+              },
+              {
+                "name" : "C data types",
+                "about" : "In the C programming language, data types refers to an extensive system for declaring variables of different types.",
+                "url" : "https://en.wikipedia.org/wiki/C_variable_types_and_declarations",
+                "urltext" : "wikipedia.org/wiki/C_variable_types_and_declarations"
               }
             ]
           }
