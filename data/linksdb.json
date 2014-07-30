@@ -1,0 +1,77 @@
+[
+  {
+    "id" : "inco",
+    "title" : "INCO",
+    "data" : [
+      {
+        "id" : "logica",
+        "title" : "Lógica",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "p1",
+        "title" : "Programación 1",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "p2",
+        "title" : "Programación 2",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "p3",
+        "title" : "Programación 3",
+        "data" : [
+
+        ]
+      }
+    ]
+  },
+  {
+    "id" : "imerl",
+    "title" : "IMERL",
+    "data" : [
+      {
+        "id" : "cal1",
+        "title" : "Cálculo 1",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "cal2",
+        "title" : "Cálculo 2",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "gal1",
+        "title" : "Geometría y Álgebra Lineal 1",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "gal2",
+        "title" : "Geometría y Álgebra Lineal 2",
+        "data" : [
+
+        ]
+      },
+      {
+        "id" : "md1",
+        "title" : "Matemática Discreta 1",
+        "data" : [
+
+        ]
+      }
+    ]
+  }
+]
