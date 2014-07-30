@@ -28,7 +28,42 @@
         "id" : "p3",
         "title" : "Programación 3",
         "data" : [
-
+          {
+            "id" : "asign",
+            "title" : "Asignatura",
+            "data" : [
+              {
+                "name" : "Programación 3",
+                "about" : "Página web de la asignatura Programación 3.",
+                "url" : "http://www.fing.edu.uy/inco/cursos/prog3/wiki/",
+                "urltext" : "fing.edu.uy/inco/cursos/prog3"
+              }
+            ]
+          },
+          {
+            "id" : "groups",
+            "title" : "Foros/Grupos de Discusion",
+            "data" : [
+              {
+                "name" : "Facebook - Grupo Programación 3",
+                "about" : "Los objetivos del grupo son: Compartir materiales relacionados con la asignatura, Plantear y resolver dudas de práctico y teórico, Comentarios e información.",
+                "url" : "https://www.facebook.com/groups/BZprog3/",
+                "urltext" : "facebook.com/groups/BZprog3"
+              }
+            ]
+          },
+          {
+            "id" : "c",
+            "title" : "Lenguaje C",
+            "data" : [
+              {
+                "name" : "The C Library Reference Guide",
+                "about" : "This guide provides a useful look at the standard C programming language. This guide is divided into two sections. The first part, 'Language', is an analysis of the syntax and the environment. The second part, 'Library', is a list of the functions available in the standard C library.",
+                "url" : "http://www.acm.uiuc.edu/webmonkeys/book/c_guide/",
+                "urltext" : "acm.uiuc.edu/webmonkeys/book/c_guide"
+              }
+            ]
+          }
         ]
       }
     ]
