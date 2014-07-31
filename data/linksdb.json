@@ -81,10 +81,10 @@
                 "urltext" : "wikipedia.org/wiki/C_variable_types_and_declarations"
               },
               {
-                "name" : "The ANSI Standard: A Summary for the C Programmer",
-                "about" : "Summary of ANSI C, from 1987. Intended to be a quick reference that the average C programmer can read and understand in one session.",
-                "url" : "http://www.ericgiguere.com/articles/ansi-c-summary.html",
-                "urltext" : "ericgiguere.com/articles/ansi-c-summary.html"
+                "name" : "IEEE 754 Converter",
+                "about" : "Convert between the decimal representation of numbers (like 1.02) and the binary format used by all modern CPUs (IEEE 754 floating point).",
+                "url" : "http://www.h-schmidt.net/FloatConverter/IEEE754.html",
+                "urltext" : "h-schmidt.net/FloatConverter/IEEE754.html"
               }
             ]
           }
