@@ -81,6 +81,12 @@
                 "urltext" : "wikipedia.org/wiki/C_variable_types_and_declarations"
               },
               {
+                "name" : "C++ - Fundamental types",
+                "about" : "",
+                "url" : "http://en.cppreference.com/w/cpp/language/types",
+                "urltext" : "en.cppreference.com/w/cpp/language/types"
+              },
+              {
                 "name" : "IEEE 754 Converter",
                 "about" : "Convert between the decimal representation of numbers (like 1.02) and the binary format used by all modern CPUs (IEEE 754 floating point).",
                 "url" : "http://www.h-schmidt.net/FloatConverter/IEEE754.html",
