@@ -57,6 +57,12 @@
             "title" : "Lenguaje C",
             "data" : [
               {
+                "name" : "C11 Standard for the C Programming Language",
+                "about" : "The current standard for the C programming language. It replaces the previous C standard, informally known as C99.",
+                "url" : "http://www.open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf",
+                "urltext" : "open-std.org/jtc1/sc22/wg14/www/docs/n1570.pdf"
+              },
+              {
                 "name" : "Aprenda lenguaje ANSI C como si estuviera en Primero",
                 "about" : "En estos apuntes se describe de forma abreviada la sintaxis del lenguaje Comentarios. No se trata de aprender a programar en C, sino más bien de presentar los recursos o las posibilidades que el C pone a disposición de los programadores.",
                 "url" : "http://www.tecnun.es/asignaturas/Informat1/AyudaInf/aprendainf/ansic/leng_c.pdf",
@@ -73,6 +79,12 @@
                 "about" : "In the C programming language, data types refers to an extensive system for declaring variables of different types.",
                 "url" : "https://en.wikipedia.org/wiki/C_variable_types_and_declarations",
                 "urltext" : "wikipedia.org/wiki/C_variable_types_and_declarations"
+              },
+              {
+                "name" : "The ANSI Standard: A Summary for the C Programmer",
+                "about" : "Summary of ANSI C, from 1987. Intended to be a quick reference that the average C programmer can read and understand in one session.",
+                "url" : "http://www.ericgiguere.com/articles/ansi-c-summary.html",
+                "urltext" : "ericgiguere.com/articles/ansi-c-summary.html"
               }
             ]
           }
