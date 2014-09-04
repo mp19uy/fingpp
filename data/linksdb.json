@@ -93,6 +93,18 @@
                 "urltext" : "h-schmidt.net/FloatConverter/IEEE754.html"
               }
             ]
+          },
+          {
+            "id" : "graph",
+            "title" : "Grafos",
+            "data" : [
+              {
+                "name" : "Washington's University Course about Design and Analysis of Algorithms",
+                "about" : "Techniques for design of efficient algorithms. Methods for showing lower bounds on computational complexity. Particular algorithms for sorting, searching, set manipulation, arithmetic, graph problems, pattern matching.",
+                "url" : "http://cse421au09.wordpress.com/slides/",
+                "urltext" : "cse421au09.wordpress.com"
+              }
+            ]
           }
         ]
       }
