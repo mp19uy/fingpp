@@ -130,7 +130,30 @@
         "id" : "cal1",
         "title" : "Cálculo 1",
         "data" : [
-
+          {
+            "id" : "ex_sols",
+            "title" : "Soluciones Exámenes",
+            "data" : [
+                {
+                  "name" : "Julio 2014",
+                  "about" : "Ejercicio 1 - MO",
+                  "url" : "https://es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1",
+                  "urltext" : "es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1"
+                },
+                {
+                  "name" : "",
+                  "about" : "Ejercicio 2 - MO",
+                  "url" : "https://es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1_3",
+                  "urltext" : "es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1_3"
+                },
+                {
+                  "name" : "",
+                  "about" : "Ejercicio 4 - MO",
+                  "url" : "https://es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1_2",
+                  "urltext" : "es.wikiversity.org/wiki/Ejercicios_resueltos_de_C%C3%A1lculo#Ejercicio_1_2"
+                }
+              ]
+          }
         ]
       },
       {
