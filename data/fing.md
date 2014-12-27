@@ -18,4 +18,4 @@
 
 ### Teórico
 
-* [**Sistemas de Numeración**]()
+* [**Bases**](https://es.wikiversity.org/wiki/Matem%C3%A1ticas_discretas/Bases)
